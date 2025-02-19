@@ -1,3 +1,5 @@
+-alle *.md Dateien mit Hilfe von LLM-
+
 # Plugin Template for PyQt5 Applications
 
 Dieses Repository enthält ein Grundgerüst für eine Python-Anwendung, die mithilfe von PyQt5 eine modulare Plugin-Struktur implementiert. Die Anwendung ermöglicht es, zur Laufzeit Plugins zu laden und zu entfernen, und bietet eine einfache Plugin-Verwaltung über ein eigenes Fenster.
